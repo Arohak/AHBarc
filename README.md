@@ -1,1 +1,1 @@
-# barcamp_android_app
+# barc_android_app
